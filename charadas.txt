@@ -1,0 +1,11 @@
+
+  
+
+    {"id": 43, "pergunta": "O que é, o que é? Tem muitas teclas, mas não toca música, tem muitos botões, mas não abotoa.", "resposta": "Máquina de escrever"},
+    {"id": 45, "pergunta": "O que é, o que é? Tem muitas ruas, mas não tem carros, tem muitas casas, mas não tem pessoas.", "resposta": "Maquete"},
+    {"id": 46, "pergunta": "O que é, o que é? Tem muitas pernas, mas não anda, tem muitas asas, mas não voa.", "resposta": "Poltrona"},
+    {"id": 47, "pergunta": "O que é, o que é? Tem muitas bocas, mas não come, tem muitas línguas, mas não fala.", "resposta": "Relógio"},
+
+    {"id": 49, "pergunta": "O que é, o que é? Tem muitas folhas, mas não é árvore, tem muitas páginas, mas não é livro.", "resposta": "Bloco de notas"},
+
+]
